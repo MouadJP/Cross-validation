@@ -1,0 +1,8 @@
+Created a simple cross validation seperation then calculated the kernel for each group using my own functions 
+簡単な交差検証分割を作成し、それぞれのグループに対して自作の関数を使ってカーネルを計算しました。
+
+
+
+
+
+
